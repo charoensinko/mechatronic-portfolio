@@ -64,8 +64,8 @@ git commit -m "Initial portfolio prototype"
 แล้วเชื่อม + push (เปลี่ยน USERNAME เป็นของคุณ):
 
 ```bash
-git remote add origin https://github.com/USERNAME/mechatronic-portfolio.git
 git branch -M main
+git remote add origin https://github.com/USERNAME/mechatronic-portfolio.git
 git push -u origin main
 ```
 
